@@ -15,14 +15,18 @@ void quick_sort(int q[], int l, int r)
 {
     if (l >= r)
         return;
-    
+
     // look for the cut-off point
     int x = q[(l + r + 1) / 2], i = l - 1, j = r + 1;
     // adjust the interval
     while (i < j)
     {
-        do i++; while (q[i] < x);
-        do j--; while (q[j] > x);
+        do
+            i++;
+        while (q[i] < x);
+        do
+            j--;
+        while (q[j] > x);
         if (i < j)
             swap(q[i], q[j]);
     }
@@ -42,7 +46,6 @@ int main()
 
     for (int i = 0; i < n; i++)
         printf("%d ", q[i]);
-    
+
     return 0;
 }
-
