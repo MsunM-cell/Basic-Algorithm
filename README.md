@@ -4,3 +4,6 @@ some templates of basic algorithm
 ### sort
 - quick sort
 - merge sort
+### binary
+- integer binary
+- float binary
