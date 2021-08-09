@@ -7,3 +7,10 @@ some templates of basic algorithm
 ### binary
 - integer binary
 - float binary
+### high precision
+- high precision addition
+- high precision subtraction
+- high precision multiplication
+- high precision division
+### prefix sum
+- one dimensional prefix sum
