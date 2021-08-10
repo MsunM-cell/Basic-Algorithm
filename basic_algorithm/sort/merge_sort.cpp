@@ -16,6 +16,7 @@ void merge_sort(int q[], int l, int r)
 
     // look for the cut-off point
     int mid = (l + r) / 2;
+
     // recursive processing
     merge_sort(q, l, mid);
     merge_sort(q, mid + 1, r);
