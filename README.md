@@ -14,3 +14,16 @@ some templates of basic algorithm
 - high precision division
 ### prefix sum
 - one dimensional prefix sum
+- two dimensional prefix sum
+### difference
+- one dimensional difference
+- two dimensional difference
+### double pointer
+- the num of words
+- the longest continuous non-repeating subsequence
+### bit operation
+- the num of one
+### discretization
+- interval sum
+### interval merge
+- interval merge 
