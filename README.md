@@ -27,3 +27,15 @@ some templates of basic algorithm
 - interval sum
 ### interval merge
 - interval merge 
+## data structure
+### linked list
+- single linked list
+- double linked list
+### stack
+- emulation stack by array
+- monotonic stack
+### queue
+- emulation queue by array
+- monotonic queue
+### kmp
+- kmp
