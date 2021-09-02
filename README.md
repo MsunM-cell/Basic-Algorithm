@@ -39,3 +39,11 @@ some templates of basic algorithm
 - monotonic queue
 ### kmp
 - kmp
+### trie
+- trie
+### and_check_set
+- and_check_set
+- num of connected block
+### heap
+- heap sort
+- simulate heap
