@@ -41,8 +41,8 @@ some templates of basic algorithm
 - kmp
 ### trie
 - trie
-### and_check_set
-- and_check_set
+### and check set
+- and check set
 - num of connected block
 ### heap
 - heap sort
