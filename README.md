@@ -47,3 +47,7 @@ some templates of basic algorithm
 ### heap
 - heap sort
 - simulate heap
+### hash
+- open addressing
+- zipper
+- string hash
