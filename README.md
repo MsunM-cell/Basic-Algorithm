@@ -51,3 +51,9 @@ some templates of basic algorithm
 - open addressing
 - zipper
 - string hash
+### search and graph
+### dfs
+### bfs
+### tree of dfs
+### tree of bfs
+### topological sequence
