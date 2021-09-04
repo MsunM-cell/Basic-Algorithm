@@ -19,7 +19,7 @@ some templates of basic algorithm
 ### and check set
 ### heap
 ### hash
-### search and graph
+## search and graph
 ### dfs
 ### bfs
 ### tree of dfs
